@@ -1,6 +1,6 @@
 # TP SD 2025/2026
 
-**Nota:** 1
+**Nota:** 17
 
 Trabalho Prático de **Sistemas Distribuídos** 2025/2026.
 
@@ -22,5 +22,6 @@ Constituintes do grupo de trabalho:
 - Eduardo Freitas Fernandes 106919
 - Gonçalo Rodrigues Ribeiro 106842
 - José Mário Raimundo Lima 106888
+
 
 
